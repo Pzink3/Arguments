@@ -1,3 +1,5 @@
+<title>My PHP Argument File</title>
+
 <?php
 
 function takes_array($input)
