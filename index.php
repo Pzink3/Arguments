@@ -31,7 +31,7 @@ echo mascot("BULLDOGS!");
 
 
 <?php
-function school($place, $name = "PHS (Pasadena High School)")
+function school($place, $name = "PHS(Pasadena High School)")
 {
     return "And where are they, you ask? Well, they are at none other than $name $place.\n";
 }
